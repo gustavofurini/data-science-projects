@@ -73,8 +73,4 @@ The optimized Random Forest model achieved:
 
 This project demonstrated the potential of machine learning to predict and analyze air quality, supporting data-driven decision-making. The approach can be expanded to other scenarios, promoting sustainability and public health.
 
-## 🛠️ How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/air-quality-assessment.git
