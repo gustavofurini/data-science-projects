@@ -2,13 +2,13 @@
 
 This project leverages machine learning to predict air quality levels based on environmental and demographic factors. The analysis spans data exploration to model optimization, classifying air quality into four levels: **Good**, **Moderate**, **Poor**, and **Hazardous**.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - **Identify critical factors** influencing air quality.
 - **Develop robust machine learning models** to classify air quality.
 - **Provide actionable insights** to mitigate pollution.
 
-## 🌍 Context and Business Problem
+## Context and Business Problem
 
 Air pollution poses significant challenges to public health and the environment, impacting millions globally. This project aims to predict air quality, enabling proactive strategies to reduce pollution.
 
@@ -18,7 +18,7 @@ Air pollution poses significant challenges to public health and the environment,
   - Issue alerts for hazardous conditions.
   - Support long-term sustainability strategies.
 
-## 🗂️ Dataset
+## Dataset
 
 - **Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment)
 - **Key features**:
@@ -27,7 +27,7 @@ Air pollution poses significant challenges to public health and the environment,
   - **Target variable**: Air quality classification into Good, Moderate, Poor, and Hazardous.
 - **Dataset size**: 5,000 samples.
 
-## ⚙️ Technologies and Libraries
+## Technologies and Libraries
 
 - **Language**: Python
 - **Libraries**:
@@ -36,7 +36,7 @@ Air pollution poses significant challenges to public health and the environment,
   - Modeling: `scikit-learn`
   - Others: `warnings`
 
-## 🚀 Methodology
+## Methodology
 
 1. **Data preprocessing**:
    - Checked for null and duplicate values.
@@ -52,7 +52,7 @@ Air pollution poses significant challenges to public health and the environment,
 4. **Model optimization**:
    - The optimized Random Forest model achieved an **accuracy of 95%**.
 
-## 🔑 Key Findings
+## Key Findings
 
 - **Key pollution factors**:
   - High concentrations of PM2.5, PM10, NO2, SO2, and CO.
@@ -63,13 +63,13 @@ Air pollution poses significant challenges to public health and the environment,
   - Develop strategies to reduce pollutants in industrial areas.
   - Monitor densely populated regions for preventive measures.
 
-## 📊 Results
+## Results
 
 The optimized Random Forest model achieved:
 - **Accuracy**: 95%
 - **Macro F1-score**: 0.92
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrated the potential of machine learning to predict and analyze air quality, supporting data-driven decision-making. The approach can be expanded to other scenarios, promoting sustainability and public health.
 
