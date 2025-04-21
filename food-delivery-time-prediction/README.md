@@ -20,7 +20,7 @@ Timely delivery is a critical metric in the food delivery industry, impacting cu
 
 ## Dataset
 
-- **Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/food-delivery-time)
+- **Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction)
 - **Key features**:
   - Order Date and Time
   - Delivery Distance (km)
